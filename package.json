@@ -1,6 +1,9 @@
 {
   "name": "baconer3",
   "version": "0.0.1",
+  "description": "An Ethereum mobile wallet built in React-native",
+  "license": "MIT",
+  "author": "Dylan Bathurst <dylanbathurst@gmail.com>",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
