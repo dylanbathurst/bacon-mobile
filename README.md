@@ -1,5 +1,7 @@
 # Bacon Wallet for Mobile
 
+![Bacon Mobile App Screenshot on iOS](./screenshots/main-screen.png)
+
 ## Getting Started
 1. React Native Cli tool: `npm install -g react-native-cli`
 2. A local blockchain:
